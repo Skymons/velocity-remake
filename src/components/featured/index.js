@@ -10,7 +10,7 @@ import {
 const items = [
   {
     src:
-      'https://www.wallpapermaiden.com/image/2016/07/16/dishonored-2-mask-coat-female-games-2810.jpg',
+      'https://cdn.wccftech.com/wp-content/uploads/2016/06/dishonored2_emily.jpg',
     altText: '',
     caption: '',
     header: 'Dishonored 2',
