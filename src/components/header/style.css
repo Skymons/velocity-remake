@@ -1,0 +1,16 @@
+.header {
+  background-color: #333;
+  padding-top: 55px;
+}
+.welcome {
+  color: #fff;
+  min-height: 500px;
+  padding-top: 150px;
+}
+.welcome h2 {
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.logo-img {
+  max-width: 250px;
+}
